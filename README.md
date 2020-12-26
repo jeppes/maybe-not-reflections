@@ -36,6 +36,7 @@ The final part of the talk shows that this separation actually solves a more gen
 
 'Maybe Not' is not an attack on Haskell or type systems; It is an explanation of why Clojure is taking an unconventional approach to optionality, and an exploration of what consequences that might have. Clojure's approach is not necessarily correct, and Haskell's approach is not necessarily bad. They made their own sets of trade-offs, and as programmers we should learn from both so we can choose the right tool for the right job.
 
+---------------------------------------------------------
 
 [1] To understand Rich's position on this subject, I recommend watching his [Spec-ulation Keynote](https://www.youtube.com/watch?v=oyLBGkS5ICk). 
 
