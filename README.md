@@ -38,4 +38,5 @@ The final part of the talk shows that this separation actually solves a more gen
 
 
 [1] To understand Rich's position on this subject, I recommend watching his [Spec-ulation Keynote](https://www.youtube.com/watch?v=oyLBGkS5ICk). 
+
 [2] Typescript's [Mapped Types](https://www.typescriptlang.org/docs/handbook/advanced-types.html#mapped-types) are the best solution to this that I am aware of in typed language.
