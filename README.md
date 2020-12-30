@@ -38,4 +38,4 @@ Rich's proposed solution is to take things apart. He separates the definition of
 
 [1] To understand Rich's position on this subject, I recommend watching his [Spec-ulation Keynote](https://www.youtube.com/watch?v=oyLBGkS5ICk). 
 
-[2] Typescript's [Mapped Types](https://www.typescriptlang.org/docs/handbook/advanced-types.html#mapped-types) are the best and only solution to this that I am aware of in typed language.
+[2] Typescript's [Mapped Types](https://www.typescriptlang.org/docs/handbook/advanced-types.html#mapped-types) are an interesting approach to this problem in a typed language.
