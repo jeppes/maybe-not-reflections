@@ -32,7 +32,7 @@ Rich's proposed solution is to take things apart. He separates the definition of
 
 ## Conclusion
 
-'Maybe Not' is not an attack on Haskell or type systems; It is an explanation of why Clojure is taking an unconventional approach to optionality, and an exploration of what consequences that might have. Clojure's approach is not necessarily correct, and Haskell's approach is not necessarily bad. They made their own sets of trade-offs, and as programmers we should learn from both so we can choose the right tool for the right job.
+'Maybe Not' is not an attack on Haskell or type systems; It is an explanation of why Clojure is taking an unconventional approach to optionality, and an exploration of what consequences that might have. Clojure's approach is not necessarily correct, and Haskell's approach is not necessarily bad. They made their own sets of trade-offs, and as programmers we should learn from both so we can choose the right tool for the job.
 
 ---------------------------------------------------------
 
